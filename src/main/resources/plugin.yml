@@ -1,0 +1,7 @@
+name: UnsafeEnchant
+version: '${project.version}'
+main: me.spongycat.unsafeenchant.UnsafeEnchant
+api-version: 1.19
+load: STARTUP
+authors: [SpongyCat]
+description: Allow you to use commands to add unsafe enchant to an item.
